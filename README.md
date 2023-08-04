@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/atola4u" target="blank"><img src="https://img.shields.io/twitter/follow/atola4u?logo=twitter&style=for-the-badge" alt="atola4u" /></a> </p>
 
-- 🌱 I’m currently learning **C, Python, React**
+- 🌱 I’m currently **available for gigs**
 
 - 📫 How to reach me **leadconsultnig@gmail.com**
 
